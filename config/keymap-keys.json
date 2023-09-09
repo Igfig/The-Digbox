@@ -1,0 +1,23 @@
+{
+  "key.sethorse.desc": {
+    "keyCode": 80,
+    "keyType": "KEYBOARD",
+    "alt": false,
+    "shift": false,
+    "ctrl": true
+  },
+  "key.showstats.desc": {
+    "keyCode": 75,
+    "keyType": "KEYBOARD",
+    "alt": false,
+    "shift": false,
+    "ctrl": true
+  },
+  "key.callhorse.desc": {
+    "keyCode": 72,
+    "keyType": "KEYBOARD",
+    "alt": false,
+    "shift": false,
+    "ctrl": true
+  }
+}

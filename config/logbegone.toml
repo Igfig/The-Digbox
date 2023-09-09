@@ -1,0 +1,5 @@
+
+[logbegone]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels "]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Exception loading blockstate definition", "Unable to load model", "Unable to resolve texture reference", "Using missing texture", "Missing sound for event", "is using the deprecated loader", "Could not apply rainbow color layer", "Could not apply pet overlays layer", "Failed to generate recipe", "Couldn't load tag", "Parsing error loading recipe", "Parsing error loading custom advancement", "Error whilst loading type", "Ignoring loot modifiers", "Could not decode GlobalLootModifier", "Tried to load unrecognized recipe"]
+
