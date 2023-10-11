@@ -469,12 +469,6 @@
 			red_shingles = true
 			black_shingles = true
 
-		[types.cut_block_type.supplementaries]
-			lapis_bricks = true
-			ash_bricks = true
-			stone_tile = true
-			blackstone_tile = true
-
 		[types.cut_block_type.endlessbiomes]
 			arkan = true
 			arkan_brick = true
@@ -659,6 +653,12 @@
 
 		[types.cut_block_type.hexcasting]
 			edified = true
+
+		[types.cut_block_type.supplementaries]
+			lapis_bricks = true
+			ash_bricks = true
+			stone_tile = true
+			blackstone_tile = true
 
 	[types.wood_type]
 

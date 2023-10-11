@@ -569,7 +569,7 @@
 	"Sign Editing" = true
 	"Slimes To Magma Cubes" = true
 	"More Banner Layers" = true
-	"Double Door Opening" = true
+	"Double Door Opening" = false
 	"Armed Armor Stands" = true
 
 	[tweaks.automatic_recipe_unlock]
