@@ -475,7 +475,7 @@ _version = 1
 		#
 		# Note that in server, distant generation is always off. 
 		#
-		enableDistantGeneration = true
+		enableDistantGeneration = false
 
 	[client.multiplayer]
 		# When matching worlds of the same dimension type the 
