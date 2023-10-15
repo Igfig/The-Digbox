@@ -1,6 +1,7 @@
 /Distant_Horizons_server_data
 /XaeroWaypoints*
 /XaeroWorldMap*
+/backups
 /crash-reports
 /debug
 /downloads
@@ -22,4 +23,8 @@
 .curseclient
 .qmenu_opened.marker
 o_prof
+/config/adchimneys/Emitters
+/config/alexsmobs
+/config/byg/backups
+/config/doapi/recipebook.json5
 /config/jei/world
