@@ -176,6 +176,7 @@
 			gloomslate_tile = true
 			smooth_gloomslate = true
 			cut_gloomslate = true
+			sculk_grime_brick = true
 
 		[types.cut_block_type.vinery]
 			cherry = true
@@ -669,6 +670,12 @@
 
 		[types.cut_block_type.snowyspirit]
 			gingerbread = true
+
+		[types.cut_block_type.naturalist]
+			shellstone = true
+			shellstone_brick = true
+			cut_shellstone = true
+			smooth_shellstone = true
 
 	[types.wood_type]
 
