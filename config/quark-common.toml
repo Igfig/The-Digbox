@@ -58,7 +58,7 @@
 [automation]
 	"Dispensers Place Blocks" = true
 	"Metal Buttons" = true
-	"Feeding Trough" = true
+	"Feeding Trough" = false
 	"Obsidian Plate" = true
 	"Pistons Move Tile Entities" = true
 	"Iron Rod" = true
