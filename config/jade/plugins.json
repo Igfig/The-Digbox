@@ -46,9 +46,6 @@
     "mob_spawner": true,
     "redstone": true
   },
-  "ars_nouveau": {
-    "mob_jar": true
-  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
@@ -63,18 +60,11 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "dynamictrees": {
-    "rooty_water": true,
-    "pod": true,
-    "fruit": true,
-    "rooty": true,
-    "branch": true
-  },
   "create": {
     "filter": true,
+    "backtank_capacity": true,
     "goggles.requires_goggles": true,
     "goggles": true,
-    "copper_backtank": true,
     "blaze_burner": true,
     "exact_block": true,
     "crafting_blueprint": true,

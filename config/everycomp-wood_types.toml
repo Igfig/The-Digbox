@@ -1081,6 +1081,7 @@
 			four_panel_trapdoor = true
 			barred_trapdoor = true
 			mystic_trapdoor = true
+			barrel_trapdoor = true
 
 		[entries.wood_type.mcwbridges]
 			bridge_pier = true

@@ -56,7 +56,7 @@
   "create:filter": null,
   "create:goggles": null,
   "create:blaze_burner": null,
-  "create:copper_backtank": null,
+  "create:backtank_capacity": null,
   "create:contraption_inv": null,
   "lootr:inventory": null,
   "create:hide_boiler_tanks": null,
